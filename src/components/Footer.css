@@ -1,0 +1,16 @@
+footer ul {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  box-sizing: border-box;
+  width: 100%;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 7%;
+  gap: 50px;
+}
+
+footer li {
+  list-style: none;
+}

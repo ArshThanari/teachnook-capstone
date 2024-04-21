@@ -1,0 +1,27 @@
+.contact-container {
+  margin-top: 40px;
+  padding: 0 7%;
+  height: 100vh;
+}
+
+.contact-container img {
+  border-radius: 50%;
+}
+
+.contact-container h2 {
+  font-size: 3em;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.contact-container ul {
+  margin: 0;
+  font-size: 1.5em;
+  font-family: Calibri, sans-serif;
+  padding-left: 30px;
+}
+
+.contact-container a {
+  color: blue;
+  text-decoration: underline;
+}

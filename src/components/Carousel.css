@@ -1,0 +1,14 @@
+.carousel {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  gap: 75px;
+}
+
+.carousel .prev {
+  transform: rotateY(-30deg) skewY(5deg) translateY(-15px);
+}
+
+.carousel .next {
+  transform: rotateY(30deg) skewY(-5deg) translateY(-15px);
+}
